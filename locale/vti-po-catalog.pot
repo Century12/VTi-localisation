@@ -21066,3 +21066,83 @@ msgstr ""
 #
 msgid "Enable Focus Animation"
 msgstr ""
+
+#
+msgid "SD 25/50HZ Interlace Mode"
+msgstr ""
+
+#
+msgid "SD 30/60HZ Interlace Mode"
+msgstr ""
+
+#
+msgid "SD 25/50HZ Progressive Mode"
+msgstr ""
+
+#
+msgid "SD 30/60HZ Progressive Mode"
+msgstr ""
+
+#
+msgid "HD Interlace Mode"
+msgstr ""
+
+#
+msgid "HD Progressive Mode"
+msgstr ""
+
+#
+msgid "Enable 720p24 Mode"
+msgstr ""
+
+#
+msgid "Enable 1080p24 Mode"
+msgstr ""
+
+#
+msgid "Enable 1080p25 Mode"
+msgstr ""
+
+#
+msgid "Enable 1080p30 Mode"
+msgstr ""
+
+#
+msgid "Autoresolution settings"
+msgstr ""
+
+#
+msgid "Enable Autoresolution"
+msgstr ""
+
+#
+msgid "Show info screen"
+msgstr ""
+
+#
+msgid "Delay x seconds after service started"
+msgstr ""
+
+#
+msgid "Running in testmode"
+msgstr ""
+
+#
+msgid "Deinterlacer mode for interlaced content"
+msgstr ""
+
+#
+msgid "Deinterlacer mode for progressive content"
+msgstr ""
+
+#
+msgid "Autoresolution"
+msgstr ""
+
+#
+msgid "Scan"
+msgstr ""
+
+#
+msgid "Scan All"
+msgstr ""
